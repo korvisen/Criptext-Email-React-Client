@@ -148,7 +148,7 @@
     "electron": "8.0.0",
     "electron-builder": "22.4.0",
     "electron-notarize": "^0.1.1",
-    "grunt": "^1.2.1",
+    "grunt": "^1.5.3",
     "grunt-exec": "^3.0.0"
   },
   "dependencies": {
